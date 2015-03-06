@@ -51,8 +51,18 @@
 					Acompañamiento (citas médicas programadas,  realización de laboratorios, 
 					diálisis y acompañamiento clínico establecido por EPS).
 				</p>
+
+				<ul>
+					<li><img width="100" src="<?php bloginfo('template_url' ); ?>/library/img/medico-domiciliario.png" alt=""></li>
+					<li><img width="100" src="<?php bloginfo('template_url' ); ?>/library/img/terapia-respiratoria.png" alt=""></li>
+					<li><img width="100" src="<?php bloginfo('template_url' ); ?>/library/img/terapia-fisica.png" alt=""></li>
+					<li><img width="100" src="<?php bloginfo('template_url' ); ?>/library/img/servicio-de-transporte.png" alt=""></li>
+				</ul>
 			</div>
+
+
 		</div>
 	</div>
 </article>
+
 <?php get_footer(); ?>

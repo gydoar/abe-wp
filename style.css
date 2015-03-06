@@ -334,6 +334,21 @@ a.hv{
 	font-size: 18px;
 	letter-spacing: 1px;
 }
+#recurso-humano h4{
+	color: #009ada;
+}
+#enfermeria-domiciliaria h4{
+	color: #666969;
+}
+#enfermeria-domiciliaria ul{
+	margin-top: 40px;
+}
+#enfermeria-domiciliaria ul li{
+	list-style: none;
+	display: inline-block;
+	margin: 0px 10px;
+}
+
 /* #Media Queries
 ================================================== */
 
