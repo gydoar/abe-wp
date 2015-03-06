@@ -16,7 +16,7 @@ load_template( $optionsfile );
 // Agregando Favicon al administrador
 ////////
  function admin_head_example() {
-    echo '<link rel="icon" type="image/png" href="' . get_bloginfo('template_directory') . '/library/img/admin-favicon.png" />';
+    echo '<link rel="icon" type="image/png" href="' . get_bloginfo('template_directory') . '/library/img/favicon.png" />';
 }
 
 add_action( 'admin_head', 'admin_head_example' );

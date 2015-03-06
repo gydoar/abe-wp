@@ -18,6 +18,11 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
 	<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
 
+	  <!-- Favicon
+	  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	  <link rel="icon" type="image/png" href="<?php bloginfo('template_url' ); ?>/library/img/favicon.png">
+	  <link rel="apple-touch-icon" href="<?php bloginfo('template_url' ); ?>/library/img/apple-touch.png">
+
 	<?php wp_head(); ?>
 </head>
 <body>
