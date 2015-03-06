@@ -12,7 +12,7 @@
 			NUESTRO PERSONAL CUENTA con todas las acreditaciones  y se encuentra <br>debidamente capacitado para realizar labores como:</p>
 		<div id="recurso-humano">
 			<div class="three columns offset-by-one">
-				<img src="http://localhost/abe-wp/wp-content/uploads/2015/03/recursos-humanos.png" alt="">
+				<img src="<?php bloginfo('template_url' ); ?>/library/img/recursos-humanos.png" alt="">
 			</div>
 			<div class="seven columns">
 				<h4>RECURSO HUMANO</h4>
@@ -28,7 +28,7 @@
 
 			<div class="three columns offset-by-one">
 				<br><br>
-				<img src="http://localhost/abe-wp/wp-content/uploads/2015/03/enfermeria-domiciliaria.png" alt="">
+				<img src="<?php bloginfo('template_url' ); ?>/library/img/enfermeria-domiciliaria.png" alt="">
 			</div>
 			<div class="seven columns">
 				<br><br>
