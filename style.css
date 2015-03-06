@@ -348,7 +348,46 @@ a.hv{
 	display: inline-block;
 	margin: 0px 10px;
 }
+#box1, #box2{
+	width: 47%;
+	display: inline-block;
+	vertical-align: top;
+}
+input#contactName,input#email,input#telefono{
+	width: 300px;
+	background: #f7f7f8;
+}
+input#contactName,input#email,input#telefono,textarea#commentsText{
+	border: none;
+}
 
+input#contactName:focus,input#email:focus,input#telefono:focus,textarea#commentsText:focus{
+	border: 1px solid #80ae38;
+}
+textarea#commentsText{
+	width: 300px;
+	height: 100px;
+	background: #f7f7f8;
+}
+div#box1{
+	text-align: right;
+	margin-right: 10px;
+}
+div#box1 label{
+	margin-right: 240px;
+	
+}
+div#box1 label, div#box2 label{
+	color: #2ba2dd;
+	font-weight: 300;
+	letter-spacing: 1px;
+}
+#contactForm{
+	margin-top: 30px;
+}
+.button-primary{
+	margin-left: 180px;
+}
 /* #Media Queries
 ================================================== */
 
