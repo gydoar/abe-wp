@@ -71,6 +71,7 @@ ul#menu li a:hover ,ul#menu li a:active, ul#menu li a:focus{
 	-moz-border-radius: 7px 0px 0px 7px;
 	-ms-border-radius: 7px 0px 0px 7px;
 	-webkit-border-radius: 7px 0px 0px 7px;
+	text-align: left;
 
 }
 .dest-2{
@@ -98,6 +99,7 @@ ul#menu li a:hover ,ul#menu li a:active, ul#menu li a:focus{
 	-moz-border-radius: 0px 7px 7px 0px;
 	-ms-border-radius: 0px 7px 7px 0px;
 	-webkit-border-radius: 0px 7px 7px 0px;
+	text-align: left;
 }
 #politicas-calidad{
 	margin-top: 50px;
@@ -312,7 +314,7 @@ a.hv{
 	border: 2px solid #82ae3b;
 }
 
-#enfermeria-domiciliaria img{
+#enfermeria-domiciliaria img:nth-child(3), #acompanamiento img{
 	border-radius: 93px;
 	border: 2px solid #009ada;
 }

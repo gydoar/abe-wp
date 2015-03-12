@@ -28,7 +28,7 @@ Template Name: Página principal
       <a class="bottom-green" href="<?php echo home_url('/nuestros-servicios'); ?>">SERVICIOS &nbsp;<img width="10" src="<?php bloginfo('template_url' ); ?>/library/img/icon-bottom.png" alt=""></a>
     </div>
     <div class="dest-3">
-      <img width="50" src="<?php bloginfo('template_url' ); ?>/library/img/icon-transp.png" alt="">
+      <img width="60" src="<?php bloginfo('template_url' ); ?>/library/img/icon-transp.png" alt="">
       <h5>SERVICIO<br>DE <strong>TRANSPORTE</strong></h5>
       <p><?php echo of_get_option('servicio_transporte') ?></p>
     </div>

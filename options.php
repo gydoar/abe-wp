@@ -114,28 +114,28 @@ function optionsframework_options() {
 		'name' => __('ATENCION CON CALIDAD','options_framework_theme'),
 		'desc' => __('Texto de ATENCION CON CALIDAD'),
 		'id'   => 'atencion_calidad',
-		'std'  => 'Es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido.',
+		'std'  => 'Brindar a los usuarios servicios con calidad, entendiéndola como atención oportuna y amable.',
 		'type' => 'text');
 
 	$options[] = array(
 		'name' => __('CUIDADO INTEGRAL EN CASA','options_framework_theme'),
 		'desc' => __('Texto de CUIDADO INTEGRAL EN CASA'),
 		'id'   => 'cuidado_integral',
-		'std'  => 'Es simplemente el texto de relleno de las imprentas y archivos de texto.',
+		'std'  => 'Contamos con todas las acreditaciones correspondientes.',
 		'type' => 'text');
 
 	$options[] = array(
 		'name' => __('SERVICIODE TRANSPORTE','options_framework_theme'),
 		'desc' => __('Texto de SERVICIO DE TRANSPORTE'),
 		'id'   => 'servicio_transporte',
-		'std'  => 'Es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto.',
+		'std'  => 'Deberá ser programado con 48 horas de anticipación con especificación del servicio.',
 		'type' => 'text');
 
 	$options[] = array(
 		'name' => __('POLITICAS DE CALIDAD 1','options_framework_theme'),
 		'desc' => __('Texto de POLITICAS DE CALIDAD lado izquierdo'),
 		'id'   => 'politicas_1',
-		'std'  => 'Prestar atención con CALIDAD Y PUNTUALIDAD mediante la actividad y decidida participación de todo el personal, satisfaciendo las necesidades y expectativas de todos los usuarios',
+		'std'  => 'Prestar atención con calidad y puntualidad mediante la actividad y decidida participación de todo el personal, satisfaciendo las necesidades y expectativas de todos los usuarios',
 		'type' => 'textarea');
 
 	$options[] = array(
@@ -149,21 +149,21 @@ function optionsframework_options() {
 		'name' => __('HISTORIA','options_framework_theme'),
 		'desc' => __('Texto de HISTORIA'),
 		'id'   => 'historia',
-		'std'  => 'Desde hace 5 años ABE ASISTENCIA BÁSICA EN ENFERMERÍA DOMICILIARIA presta sus servicios de manera no formal en la ciudad de Bogotá, gracias a la gran acogida de nuestros clientes la compañía toma un giro para establecerse como pionera en los municipios de Funza, Mosquera, Madrid, Facatativá, Cota y Chía. Buscando expandirse en la sabana Occidental. Desde el 2014, decide constituirse como una empresa debidamente legalizada, ampliando así un poco más su portafolio, brindando así un servicio integral entre sus clientes y nuestra Entidad.',
+		'std'  => 'Desde hace 5 años ABE ASISTENCIA BÁSICA EN ENFERMERÍA DOMICILIARIA SAS presta sus servicios de manera no formal en la ciudad de Bogotá; gracias a la gran acogida de nuestros usuarios, la compañía toma un giro para establecerse como pionera en los municipios de Funza, Mosquera, Madrid, Facatativá, Cota y Chía. Buscando expandirse en la sabana Occidental. Desde el 2014, decide constituirse como una empresa debidamente legalizada en el municipio de Funza-Cundinamarca, ampliando y brindando así un servicio integral entre sus usuarios y nuestra Entidad, generando satisfacción y Confort.',
 		'type' => 'textarea');
 
 	$options[] = array(
 		'name' => __('MISION','options_framework_theme'),
 		'desc' => __('Texto de MISION'),
 		'id'   => 'mision',
-		'std'  => 'Prestar Servicios de Salud de manera integral a domicilio en donde demos calidad y Confiabilidad a nuestros usuarios de los municipios de Funza, Mosquera, Madrid, Facatativá, Cota y Chía, entregando un servicio oportuno y Saludable para cualquier situación pre-hospitalaria, evitando desplazamientos a sus EPS.',
+		'std'  => 'Prestar Servicios de Salud de manera integral a domicilio en donde demos calidad y Confiabilidad a nuestros usuarios y sus respectivas IPS de los municipios de Funza, Mosquera, Madrid, Facatativá, Cota y Chía, entregando un servicio oportuno, Saludable y personalizado para cualquier situación pre-hospitalaria, evitando desplazamientos y contribuyendo a la salud de nuestros usuarios.',
 		'type' => 'textarea');
 
 	$options[] = array(
 		'name' => __('VISION','options_framework_theme'),
 		'desc' => __('Texto de VISION'),
 		'id'   => 'vision',
-		'std'  => 'Para el 2019 ABE será una Entidad reconocida en la Atención Integral domiciliaria en la sabana occidental, dando facilidades a los usurarios y a sus IPS para el acceso a los diferentes servicios prestados por nuestra Entidad, mostrándose con grandes estándares de calidad, cobertura, servicio y excelencia, sobrepasando las expectativas de nuestros usuarios y las Entidades Aliadas.',
+		'std'  => 'Para el 2019 ABE será una Entidad reconocida en la Atención Integral domiciliaria en la sabana occidental, dando facilidades a los usuarios y a sus IPS para el acceso a los diferentes servicios prestados por nuestra Entidad, mostrándose con grandes estándares de calidad, cobertura, servicio y excelencia, sobrepasando las expectativas de nuestros usuarios y las Entidades Aliadas.',
 		'type' => 'textarea');
 
 	/********** Footer ***********/
