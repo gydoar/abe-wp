@@ -47,7 +47,7 @@
 	<div>
 		
 	</div class="six columns offset-by-two">
-	<a class="bottom-green hv" href="<?php echo home_url('/hoja-de-vida' ); ?>">EMPLEAMOS</a>
+	<a class="bottom-green hv" href="<?php echo home_url('/hoja-de-vida' ); ?>">TRABAJE CON NOSOTROS</a>
 	    <ul id="menu">
 			<li><a href="<?php echo home_url('/' ); ?>">INICIO</a></li>
 	      <li><a href="<?php echo home_url('/nuestros-servicios' ); ?>">NUESTROS SERVICIOS</a></li>

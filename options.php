@@ -176,7 +176,7 @@ function optionsframework_options() {
 		'name' => __('Dirección','options_framework_theme'),
 		'desc' => __('Agrege la dirección de su empresa'),
 		'id'   => 'direccion',
-		'std'  => 'Carrera 20 Bis No. 9C - 34 Funza',
+		'std'  => 'Kra 20 Bis # 9C - 34 Funza - Cundinamarca',
 		'type' => 'text');
 
 	$options[] = array(
@@ -190,7 +190,7 @@ function optionsframework_options() {
 		'name' => __('Atencion al usuario','options_framework_theme'),
 		'desc' => __('Agrege el teéfono principal de su empresa'),
 		'id'   => 'atencion',
-		'std'  => 'Atención al Usuario: 1 8234423',
+		'std'  => 'Atención al Usuario: 1 8234443',
 		'type' => 'text');
 
 
