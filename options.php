@@ -111,6 +111,12 @@ function optionsframework_options() {
 		'type' => 'upload');
 
 	$options[] = array(
+		'name' => __('Banner 3','options_framework_theme'),
+		'desc' => __('Tamaño del banner 1500px x 520px'),
+		'id'   => 'banner3',
+		'type' => 'upload');
+
+	$options[] = array(
 		'name' => __('ATENCION CON CALIDAD','options_framework_theme'),
 		'desc' => __('Texto de ATENCION CON CALIDAD'),
 		'id'   => 'atencion_calidad',

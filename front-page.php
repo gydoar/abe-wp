@@ -11,7 +11,8 @@ Template Name: Página principal
   <div id="owl-demo" class="owl-carousel owl-theme">
  	
     <div class="item"><img src="<?php echo of_get_option('banner1'); ?>" alt="Banner1"></div>
-    <div class="item"><img src="<?php echo of_get_option('banner2'); ?>" alt="Banner1"></div>
+    <div class="item"><img src="<?php echo of_get_option('banner2'); ?>" alt="Banner2"></div>
+    <div class="item"><img src="<?php echo of_get_option('banner3'); ?>" alt="Banner3"></div>
   
   </div>
 

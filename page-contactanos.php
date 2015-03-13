@@ -92,7 +92,7 @@ Template Name: Página contacto
                 <div class="row mt">
             <div class="col-lg-6 col-lg-offset-3 centered">
 
-                   <header>
+        <header>
             <h3><?php the_title(); ?></h3>
             <div class="line-niveles2"></div>
           </header>
