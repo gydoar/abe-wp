@@ -15,10 +15,12 @@
 				<img src="<?php bloginfo('template_url' ); ?>/library/img/recursos-humanos.png" alt="">
 			</div>
 			<div class="seven columns">
+				<br>
 				<h4>RECURSO HUMANO</h4>
 				<p>Contamos con personal altamente calificado y capacitado para desarrollar todo tipo de servicio ofertado a nuestros usuarios.</p>
 
-				<p>Es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica.
+				<p>
+					<br><br><br><br><br>
 				</p>
 			</div>
 		</div>
@@ -27,11 +29,11 @@
 		<div id="enfermeria-domiciliaria">
 
 			<div class="three columns offset-by-one">
-				<br><br>
+				
 				<img src="<?php bloginfo('template_url' ); ?>/library/img/enfermeria-domiciliaria.png" alt="">
 			</div>
 			<div class="seven columns">
-				<br><br>
+				
 				<h4><img width="15" src="<?php bloginfo('template_url' ); ?>/library/img/circle_1.png" alt="">&nbsp;&nbsp;ENFERMERIA DOMICILIARIA</h4>
 				<p>Programa de atención que sin poner en riesgo la vida del paciente y con un adecuado modelo interdisciplinario se encarga de dar calidad de vida a los usuarios permitiendo mejoras a nivel científico-técnico, psicosocial y gerencial; fomentando así la protección de la salud, la atención primaria, prevención clínica y hospitalización en casa; Brindado servicios como Curaciones, Administración de medicamentos, Tratamiento pre y post-operatorios, Toma de glucometrías, Inyectología, Toma de signos vitales y turnos 12 a 24 horas, según los requerimientos de los usuarios.</p>
 				<p>
